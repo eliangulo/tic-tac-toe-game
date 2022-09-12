@@ -1,0 +1,11 @@
+C:\Practicas0.1\NewGame\FrondEnd\bin\Debug\FrondEnd.exe.config
+C:\Practicas0.1\NewGame\FrondEnd\bin\Debug\FrondEnd.exe
+C:\Practicas0.1\NewGame\FrondEnd\bin\Debug\FrondEnd.pdb
+C:\Practicas0.1\NewGame\FrondEnd\obj\Debug\FrondEnd.csproj.AssemblyReference.cache
+C:\Practicas0.1\NewGame\FrondEnd\obj\Debug\FrondEnd.csproj.SuggestedBindingRedirects.cache
+C:\Practicas0.1\NewGame\FrondEnd\obj\Debug\FrondEnd.Form1.resources
+C:\Practicas0.1\NewGame\FrondEnd\obj\Debug\FrondEnd.Properties.Resources.resources
+C:\Practicas0.1\NewGame\FrondEnd\obj\Debug\FrondEnd.csproj.GenerateResource.cache
+C:\Practicas0.1\NewGame\FrondEnd\obj\Debug\FrondEnd.csproj.CoreCompileInputs.cache
+C:\Practicas0.1\NewGame\FrondEnd\obj\Debug\FrondEnd.exe
+C:\Practicas0.1\NewGame\FrondEnd\obj\Debug\FrondEnd.pdb
